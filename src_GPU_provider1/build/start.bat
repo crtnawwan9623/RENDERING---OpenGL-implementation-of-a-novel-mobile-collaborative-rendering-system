@@ -1,0 +1,3 @@
+@echo off
+echo Starting GPU provider1...
+start "" "main.exe" "data\cow.obj"
