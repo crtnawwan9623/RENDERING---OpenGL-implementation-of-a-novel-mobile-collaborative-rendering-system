@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/src_worker3/libobj.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+iostream
+-
+GL/glew.h
+-
+GL/freeglut.h
+-
+GL/freeglut_ext.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/src_worker3/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+GL/glew.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/matrix_inverse.hpp
+-
+GL/freeglut.h
+-
+GL/freeglut_ext.h
+-
+shader.h
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/src_worker3/shader.h
+libobj.h
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/src_worker3/libobj.h
+iostream
+-
+string.h
+-
+Windows.h
+-
+
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/src_worker3/shader.h
+
