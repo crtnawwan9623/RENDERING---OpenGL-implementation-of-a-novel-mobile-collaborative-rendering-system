@@ -1,6 +1,6 @@
 # OpenGL-implementation-of-a-novel-mobile-collaborative-rendering-system
 
-This is a openGL implementation of a proposed mobile collaborative rendering system, which distributes 3D rendering task among a group of distributed devices. The collaborative rendering systems design and algorithm implementation are detailed in our paper submitted on IEEE Transaction on Service Computing:
+This is a openGL (C++) implementation of a proposed mobile collaborative rendering system, which distributes 3D rendering task among a group of distributed devices. The collaborative rendering systems design and algorithm implementation are detailed in our paper submitted on IEEE Transaction on Service Computing:
 
 <div align=center><img width="764" alt="Screen Shot 2021-09-09 at 11 37 02 AM" src="https://user-images.githubusercontent.com/37515653/132717215-fb20d461-abd9-472e-9126-a1f8e6b6f74c.png">
 
