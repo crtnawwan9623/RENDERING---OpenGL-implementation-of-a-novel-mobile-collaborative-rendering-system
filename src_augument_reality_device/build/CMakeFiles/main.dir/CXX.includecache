@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/read_class/readbmp.cpp
+GL/glut.h
+-
+GL/glext.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+Windows.h
+-
+worker.h
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/read_class/worker.h
+
+C:/Users/rchen328/OneDrive - The University of Western Ontario/render/objview_master/read_class/worker.h
+GL/glut.h
+-
+GL/glext.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+Windows.h
+-
+string.h
+-
+
